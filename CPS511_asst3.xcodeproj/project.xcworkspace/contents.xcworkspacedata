@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../vertexshader.txt">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/Momin/Desktop/CPS511_asst3/CPS511_asst3/fragmentshader.txt">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/Momin/Desktop/CPS511_asst3/CPS511_asst3/vertexshader.txt">
+   </FileRef>
+   <FileRef
+      location = "self:CPS511_asst3.xcodeproj">
+   </FileRef>
+</Workspace>
